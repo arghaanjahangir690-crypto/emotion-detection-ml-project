@@ -106,6 +106,12 @@ The models were evaluated using:
 
 ---
 
+## Classification Report Heatmap
+
+<img width="1000" height="600" alt="Classification Report Heatmap" src="PASTE_YOUR_IMAGE_LINK_HERE" />
+
+---
+
 # Key Findings
 
 - Logistic Regression achieved the best overall performance.
