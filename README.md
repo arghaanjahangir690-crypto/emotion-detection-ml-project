@@ -48,13 +48,16 @@ This project implements Multi-Class Emotion Detection from Twitter text using Ma
 ## Visualizations
 
 ### Accuracy Comparison
-![Accuracy Graph](accuracy_graph.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8b22cb2d-69ac-4475-a371-e4af50de684e" />
+
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/7579cdbd-3238-4c0e-b19d-c4a6230647a0" />
+
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/92d7c9df-05fc-4674-b9ac-7d95137062b4" />
+
 
 ## Conclusion
 Logistic Regression achieved the highest accuracy among the implemented machine learning models. The project demonstrates the challenges of multi-class emotion detection from social media text data.
